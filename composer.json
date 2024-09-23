@@ -1,0 +1,5 @@
+{
+    "require": {
+        "basis-company/nats": "^0.24.0"
+    }
+}
